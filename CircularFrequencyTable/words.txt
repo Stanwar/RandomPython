@@ -1,0 +1,3 @@
+In this example we count the number of words and the words 
+is what we count in this example and show the numbers.
+The last words in this example are what we count here.
